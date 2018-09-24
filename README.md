@@ -12,6 +12,9 @@ Clone this repository.
 ```
 git clone https://github.com/ashokdamacharla/tweetfunction.git
 ```
+Go to "tweetfunction" to deploy to Firebase.
+
+### Deploy to Firebase
 
 Install Firebase tools.
 ```
