@@ -12,9 +12,14 @@ Clone this repository.
 ```
 git clone https://github.com/ashokdamacharla/tweetfunction.git
 ```
-Go to "tweetfunction" to deploy to Firebase.
+Go to "tweetfunction" folder to deploy to Firebase.
 
 ### Deploy to Firebase
+
+Install twitter-node-client library.
+```
+npm install twitter-node-client
+```
 
 Install Firebase tools.
 ```
